@@ -1,0 +1,13 @@
+Copyright (c) 2025 Yao Luoxun. All rights reserved.
+版权所有 (c) 2025 姚洛勋，保留所有权利。
+
+ENGLISH:
+Unless explicitly stated otherwise, no one may use, copy, modify, merge, publish,
+distribute, sublicense or sell this repository and/or its contents without
+prior written permission from the author.  
+For licensing requests, please contact: 343449129@qq.com
+
+中文：
+除非获得作者另行书面许可，任何个人或组织不得使用、复制、修改、合并、出版、
+分发、再许可和/或销售本仓库及其内容。  
+如需获取授权，请联系：343449129@qq.com
